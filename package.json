@@ -1,0 +1,13 @@
+{
+  "name": "invoice",
+  "version": "0.1.0",
+  "license": "LGPL",
+  "description": "",
+  "private": true,
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
